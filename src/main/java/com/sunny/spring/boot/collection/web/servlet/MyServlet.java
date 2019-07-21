@@ -17,7 +17,7 @@ import java.io.IOException;
  * @see com.sunny.spring.boot.collection.web.servlet <br>
  */
 @WebServlet(urlPatterns = "/my/servlet")
-public class Myservlet extends HttpServlet {
+public class MyServlet extends HttpServlet {
     protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
         resp.getWriter().println("Hello Sunny!!");
 
