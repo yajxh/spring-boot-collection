@@ -285,3 +285,7 @@ https://blog.ippon.tech/spring-5-webflux-performance-tests/
 * Web Endpoint:/actuator/metrics
 ######自定义Metrics
 ######HealthIndicator
+
+#走向自动装配
+##Spring模式注解装配
+###
